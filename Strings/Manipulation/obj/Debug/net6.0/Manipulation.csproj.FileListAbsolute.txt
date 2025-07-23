@@ -1,0 +1,15 @@
+/Users/victormbora/Desktop/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation
+/Users/victormbora/Desktop/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.deps.json
+/Users/victormbora/Desktop/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.runtimeconfig.json
+/Users/victormbora/Desktop/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.dll
+/Users/victormbora/Desktop/Start/Strings/Manipulation/bin/Debug/net6.0/ref/Manipulation.dll
+/Users/victormbora/Desktop/Start/Strings/Manipulation/bin/Debug/net6.0/Manipulation.pdb
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.csproj.AssemblyReference.cache
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.AssemblyInfoInputs.cache
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.AssemblyInfo.cs
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.csproj.CoreCompileInputs.cache
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.dll
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/ref/Manipulation.dll
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.pdb
+/Users/victormbora/Desktop/Start/Strings/Manipulation/obj/Debug/net6.0/Manipulation.genruntimeconfig.cache
